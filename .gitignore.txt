@@ -1,4 +1,0 @@
-# Ignorowanie plików obrazów
-*.png
-*.jpg
-*.jpeg
